@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FullScreenExoPlayer</string>
+    <string name="permission_required_text">For getting all the videos form device storage</string>
+    <string name="no_videos">You dont have any videos on your phone. Please create some and try again.</string>
 </resources>
